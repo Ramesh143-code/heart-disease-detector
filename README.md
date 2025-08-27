@@ -1,4 +1,4 @@
-# Heart Disease Detector 💖
+# Heart Disease Detector ❤️
 
 A Machine Learning web app that predicts your risk of heart disease using key health parameters. Built with **Python** and **Streamlit**, it delivers instant results through a clean, interactive interface.
 
